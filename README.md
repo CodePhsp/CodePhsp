@@ -1,20 +1,31 @@
-# Eu sou Pedro Henrique, tudo bem? 👋
+# Pedro Paiva | Desenvolvedor back-end
 
-<div>
-  <img height=180em src='https://github-readme-stats.vercel.app/api?username=CodePhsp&show_icons=true'>
-</div>
+Desenvolvedor back-end em início de carreira, com foco em **Python** e construção de aplicações bem estruturadas, legíveis e alinhadas a boas práticas. Perfil orientado a aprendizado contínuo, organização de código e evolução técnica consistente.
 
-## 👨‍🎓  Formações e cursos
-- Sou formado em Análise e Desenvolvimente de Sistemas (ADS) oferecido pela Estácio de Sá.
+***
 
-## 🎓 Minhas habilidades 
+## Perfil profissional
+- **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas - ADS
+- **Atuação:** Back-end
 
-<div>
-  <img aling='center' alt='Python' src='https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black'/>
-  <img aling='center' alt='PHP' src='https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&labelColor=black'/>
-  <img aling='center' alt='MySQL-SQL' src='https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&labelColor=black'/>
-</div>
+Base sólida em lógica, P.O.O, tratamento de exceções e familiaridade com versionamento e ambientes virtuais
 
-<br>
+## Tecnologias
 
-> A memória é uma ilha de edição - Waly Salomão
+- **Linguagem:** Python 3+
+- **Frameworks:** FastAPI e Django
+- **Banco de dados:** SQLite (base) e MySQL (base)
+   
+- **Ferramentas:** Git, GitHub e VS Code
+
+## Projetos
+
+Os projetos refletem minha evolução técnica e seguem padrões de organização, clareza e versionamento.
+
+***
+
+## Em Desenvolvimento
+Perfil em construção, com foco em crescimento técnico e consistência profissional.
+
+- **Banco de dados:** PostgreSQL e MongoDB
+- **Outras linguagens:** Java 
